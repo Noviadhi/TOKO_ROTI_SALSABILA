@@ -111,7 +111,6 @@ php artisan test
 
 - PRD: [docs/PRD.md](docs/PRD.md)
 - Draft laporan: [docs/LAPORAN.md](docs/LAPORAN.md)
-- Checklist pengumpulan: [docs/CHECKLIST-PENGUMPULAN.md](docs/CHECKLIST-PENGUMPULAN.md)
 
 ## Catatan Pengumpulan
 
