@@ -1,4 +1,4 @@
-# Toko Roti Salsabila
+# Rati Salsabila Snack
 
 Website profil usaha dan katalog produk untuk UMKM oleh-oleh Solo "Rati Salsabila Snack" yang belum memiliki website. Proyek ini dibuat sebagai tugas proyek individu menggunakan framework Laravel.
 
