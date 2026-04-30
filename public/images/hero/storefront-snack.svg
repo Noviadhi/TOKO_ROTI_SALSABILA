@@ -13,7 +13,8 @@
   <circle cx="810" cy="510" r="22" fill="#8B4F2D"/>
   <circle cx="840" cy="510" r="22" fill="#8B4F2D"/>
   <path d="M1110 555C1110 485 1160 425 1230 425C1298 425 1345 481 1345 544C1345 592 1307 624 1250 624C1185 624 1110 605 1110 555Z" fill="#D65B2C"/>
-  <rect x="490" y="180" width="620" height="68" rx="20" fill="#FFF5EA"/>
-  <text x="800" y="226" text-anchor="middle" fill="#7A371A" font-size="40" font-family="Georgia, serif" font-weight="700">Ratisabilla Snack</text>
+  <rect x="450" y="164" width="700" height="104" rx="26" fill="#FFF5EA"/>
+  <text x="800" y="206" text-anchor="middle" fill="#A45B21" font-size="26" font-family="Poppins, Arial, sans-serif" font-weight="700" letter-spacing="2">ROTI &amp; OLEH - OLEH</text>
+  <text x="800" y="244" text-anchor="middle" fill="#7A371A" font-size="46" font-family="Georgia, serif" font-weight="700">Salsabila</text>
   <text x="800" y="748" text-anchor="middle" fill="#7A4D3A" font-size="28" font-family="Poppins, Arial, sans-serif">Oleh-oleh Solo, hampers, dan camilan keluarga</text>
 </svg>
