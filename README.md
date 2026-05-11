@@ -72,19 +72,19 @@ copy .env.example .env
 4. Generate application key:
 
 ```bash
-php artisan key:generate
+C:\laragon\bin\php\php-8.3.30-Win32-vs16-x64\php.exe artisan key:generate
 ```
 
 5. Jalankan migrasi dan seeder:
 
 ```bash
-php artisan migrate --seed
+C:\laragon\bin\php\php-8.3.30-Win32-vs16-x64\php.exe artisan migrate --seed
 ```
 
 6. Jalankan server:
 
 ```bash
-php artisan serve
+C:\laragon\bin\php\php-8.3.30-Win32-vs16-x64\php.exe artisan serve --host=127.0.0.1 --port=8000
 ```
 
 7. Buka browser ke alamat:
@@ -104,7 +104,7 @@ Pengujian fitur dilakukan dengan Laravel test dan mencakup:
 Perintah pengujian:
 
 ```bash
-php artisan test
+C:\laragon\bin\php\php-8.3.30-Win32-vs16-x64\php.exe artisan test
 ```
 
 ## Dokumen Pendukung
