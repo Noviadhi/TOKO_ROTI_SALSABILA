@@ -8,7 +8,8 @@ Website profil usaha dan katalog produk untuk UMKM oleh-oleh Solo "Rati Salsabil
 - Jenis usaha: Oleh-oleh dan camilan khas Solo
 - Framework: Laravel 12
 - Bahasa pemrograman: PHP 8.2+
-- Database: SQLite
+- Database lokal: SQLite
+- Database production: Supabase PostgreSQL
 - Repository GitHub: https://github.com/Noviadhi/Toko-Roti-Salsabila
 
 ## Latar Belakang
@@ -92,6 +93,10 @@ C:\laragon\bin\php\php-8.3.30-Win32-vs16-x64\php.exe artisan serve --host=127.0.
 ```text
 http://127.0.0.1:8000
 ```
+
+## Deploy
+
+Panduan deploy ke Vercel dan Supabase tersedia di [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md).
 
 ## Pengujian
 
